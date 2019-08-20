@@ -10,8 +10,8 @@
 
 #style: light # dark (default) or light
 
-plugins:
-  - jekyll-seo-tag
+#plugins:
+#  - jekyll-seo-tag
 
 header_pages:
   - index.md

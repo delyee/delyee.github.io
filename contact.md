@@ -2,6 +2,7 @@
 title: /contact
 layout: page
 permalink: /contact
+name: delyee
 ---
 
 # Get in touch?

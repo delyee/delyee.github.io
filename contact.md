@@ -5,5 +5,7 @@ permalink: /contact
 ---
 
 # want to contact?
+
 name: delyee
 email: delyee0@gmail.com
+message: none

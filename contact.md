@@ -8,4 +8,5 @@ permalink: /contact
 
 name: delyee
 email: delyee0@gmail.com
-message: none
+work_email: gsaneev@nic.ru
+github: https://github.com/delyee

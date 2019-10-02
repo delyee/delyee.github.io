@@ -15,6 +15,6 @@
 
 header_pages:
   - index.md
-  - peter.md
   - about.md
   - contact.md
+#  - peter.md

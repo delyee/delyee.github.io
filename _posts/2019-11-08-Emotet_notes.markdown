@@ -53,11 +53,41 @@ powershell -enc PAAjACAAQQBjAHYAeQB6AHQAaABsAG4AZwB1AGsAIABoAHQA ..." (UID: 0002
 
 
 
+
+
+---
+
+# Domain stats
+
+
+
+| DOMAIN                 | IP             | SAMPLE NAME            |
+| ---------------------- | -------------- | ---------------------- |
+| salongsmall.se         | 138.128.161.26 | CJF_774-0973418.doc    |
+| dispora.ponorogo.go.id | 104.26.13.125  | CJF_774-0973418.doc    |
+| test.agraria.org       | 195.130.247.41 | CJF_774-0973418.doc    |
+| waed.com.au            | 166.62.27.61   | CJF_774-0973418.doc    |
+| wp.myspec.com.au       | 203.28.48.8    | CJF_774-0973418.doc    |
+|                        |                | INF_010051382_1029.doc |
+|                        |                |                        |
+|                        |                |                        |
+|                        |                |                        |
+
+
+
 ---
 
 # Suricata rules
 
 ```
+
+
+alert ip any any -> 138.128.161.26 any (msg: "Emotet C2 connection (CJF_774-0973418.doc)"; sid:2019110801; rev:1;)
+alert ip any any -> 104.26.13.125 any (msg: "Emotet C2 connection (CJF_774-0973418.doc)"; sid:2019110802; rev:1;)
+alert ip any any -> 195.130.247.41 any (msg: "Emotet C2 connection (CJF_774-0973418.doc)"; sid:2019110803; rev:1;)
+alert ip any any -> 166.62.27.61 any (msg: "Emotet C2 connection (CJF_774-0973418.doc)"; sid:2019110804; rev:1;)
+alert ip any any -> 203.28.48.8 any (msg: "Emotet C2 connection (CJF_774-0973418.doc)"; sid:2019110805; rev:1;)
+
 alert ip any any -> 148.66.135.17 any (msg: "Emotet C2 connection (Queja.doc)"; sid:201910301; rev:2;)
 alert ip any any -> 202.166.193.69 any (msg: "Emotet C2 connection (Queja.doc)"; sid:201910302; rev:2;)
 
@@ -72,6 +102,7 @@ alert ip any any -> 204.141.42.52 any (msg: "Emotet C2 connection (Queja.doc)"; 
 
 alert ip any any -> 111.93.13.168 any (msg: "Emotet C2 connection (69_01744.doc)"; sid:201910311; rev:1;)
 alert ip any any -> 46.105.131.68 any (msg: "Emotet C2 connection (69_01744.doc)"; sid:201910312; rev:1;)
+
 ```
 
 

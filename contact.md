@@ -7,7 +7,7 @@ permalink: /contact
 # want to contact?
 
 
-email: delyee0@pm.com
-work_email: gsaneev@nic.ru
+email: delyee0'%40'protonmail.com
+work_email: gsaneev'%40'nic.ru
 github: github.com/delyee
 medium: medium.com/@delyee

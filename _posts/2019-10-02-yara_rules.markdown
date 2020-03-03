@@ -5,6 +5,6 @@ date:   2019-10-02 13:00:45 +0100
 categories:
 ---
 
-# yara_rules, как и зачем это юзать
+# yara_rules
 
-Актуальная информация находится в wiki проекта
+`https://github.com/delyee/yara_rules`

@@ -6,4 +6,4 @@ permalink: /
 
 # Welcome
 
-Index статей ниже:
+Заметки ниже:

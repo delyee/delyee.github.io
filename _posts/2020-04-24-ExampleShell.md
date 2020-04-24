@@ -9,6 +9,10 @@ categories:
 
 `https://gist.github.com/delyee/bd017c6bb9473191b7eb312f1fce3d1d`
 
+# deobf:
+
+`https://gist.github.com/delyee/b564cb0b4d5230d748d6c6e0b83691eb`
+
 # cnc?
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/mpcPphv"><a href="//imgur.com/a/mpcPphv"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
@@ -37,10 +41,6 @@ if ($name === "adminer") $get = array(
         "makman.php"
     );
 ```
-
-# deobf:
-
-`https://gist.github.com/delyee/b564cb0b4d5230d748d6c6e0b83691eb`
 
 
 

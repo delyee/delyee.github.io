@@ -7,7 +7,7 @@ categories:
 
 # src:
 
-```https://gist.github.com/delyee/bd017c6bb9473191b7eb312f1fce3d1d```
+`https://gist.github.com/delyee/bd017c6bb9473191b7eb312f1fce3d1d`
 
 # cnc?
 
@@ -40,7 +40,7 @@ if ($name === "adminer") $get = array(
 
 # deobf:
 
-```https://gist.github.com/delyee/b564cb0b4d5230d748d6c6e0b83691eb```
+`https://gist.github.com/delyee/b564cb0b4d5230d748d6c6e0b83691eb`
 
 
 
